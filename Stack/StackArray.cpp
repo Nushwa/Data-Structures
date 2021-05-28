@@ -1,3 +1,8 @@
+/*
+Prepared By Nushwa Javed
+Stack using Array
+*/
+
 #include <iostream>
 using namespace std;
 #define MAX_SIZE 10
